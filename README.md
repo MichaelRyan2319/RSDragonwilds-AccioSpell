@@ -48,7 +48,7 @@ keeps it up to date.
 
 1. Press **P** to open the Spellbook, open **Custom Spells** and drag Accio into
    a slot of the spell radial.
-2. Hold **Q** and cast Accio, then pick a variant from the wheel.
+2. Press **Q** to open the spell radial and cast Accio, then pick a variant from the wheel.
 3. For **Accio**, type part of the item's name, choose a suggestion with Up/Down
    (Tab completes it) and press Enter. The cast animation plays and the items
    arrive. Esc cancels without using runes.
